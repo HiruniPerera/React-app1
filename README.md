@@ -1,5 +1,5 @@
 # About this App
-A mobile responsive website developed using React and Material UI\
+A mobile responsive website developed using React and Material UI
 
 # How to run this app?
 In the terminal (eg:VSCode) run the command nmp start\
